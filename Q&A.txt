@@ -24,6 +24,20 @@ Q: Should we allow for volunteers to hide Pages?
 Q: Can we provide tools in the volunteer CMS to make various processes easier?
 	> Changing boundries to fit around certain Locations, understanding which Pages they need to make local edits for or maintain local Depot info, etc.
 	> All the standard tire pages, all the standard plastic pages, etc.
+Q: Should the Eco-Cycle A-Z Guide be shaped in preparation for becoming Waste Guide?
+	A: No, I want control over the initial language and structure of much of this, and I can move faster this way.
+Q: How will the servers be funded?
+Q: 
+
+
+Q: Will Depots be respected by random volunteers, or will they put bad slapdash info in and anger Depots?
+Q: Could the plastics industry use the Waste Guide as a platform for propoganda?
+Q: How would tangent articles be linked to from pages?
+Q: Should people have better knowledge of their local waste services? Could people having this information cause problems?
+Q: Could large entities (Routeware) stop Waste Guide from happening?
+Q: What question set should I pose to a person from Routeware etc? And record general responses to.
+Q: What are the different options for supporting this website upkeep financially?
+Q: Is it possible for Waste Guide to evolve into something bad eventually?
 Q: 
 
 *Q: Can groups of volunteers negotiate with eachother to establish "local" Regions?
@@ -32,4 +46,8 @@ Q: What does a wiki permission higherarchy look like? Can some high level contri
 Q: How do we ensure that edit confirmations aren't captured by trolls or other malicious actors?
 	> Could large regions be locally edited by a large entity to enshittify the Waste Guide?
 *	A: However a normal wiki ensures this, so IDK.
+Q: Can I talk to enough stakeholders to ensure that this tool will be used by them? (users, volunteers, depot managers, municipalities, other guide providers)
+Q: Can we make the guide good enough for volunteers to feel that giving their labor for free is worth it?
+Q: Do atoz companies try to cover all objects with Pages? Do they have general guidance, or just a blank slate tool?
+Q: What are the reasons why I think atozs haven't scaled in use?
 Q: 

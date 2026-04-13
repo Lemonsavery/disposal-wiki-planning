@@ -1,11 +1,12 @@
 - fill out volunteer CMS Components
+- commonly confused pages feature: page is member of group, or page has potentially unique list?
 - 
 
 1. make the plan
-2. make the diagram
-3. start talking to people, companies, wikis, etc.
-4. keep adding Qs.
-5. make a whole polished document
+ 2. make the diagram
+ 3. start talking to people, companies, wikis, etc. atoz in other countries.
+ 4. keep adding Qs.
+ 5. make a whole polished document
 
 
 
@@ -18,7 +19,7 @@ What are the pieces that need to be built?
 - Frontend, hosted
 - massive collection of Pages with default text and images, including links between Pages, hosted
 - that massive collection of Page data has a searchstring query tool with great SEO and alias acceptance, hosted server?
-- CMS for volunteers, hosted, to: 
+- CMS for volunteers, hosted, to:
 	> add custom local Pages
 	> do Page local edits, verifications
 	> CRUD local Depot(s)/Pickup(s)/Event(s), verifications
@@ -68,3 +69,6 @@ Components of an UpdatedDate:
 
 Components of Volunteer CMS:
 - 
+- (what are the permission structure requirements?)
+	> ANYONE can make an account and submit a change proposal for ANYTHING. Global info via github, custom global overrides via CMS. Inherently local info via CMS.
+	
