@@ -1,0 +1,35 @@
+Q: Can this be translated into an arbitrary set of languages?
+	> There can be an automatic translator (like asking google to translate this webpage), with the option to have a specific overriding translation saved for a Page.
+	> All pages will have a button to suggest changes, whether that's about info, or translations, whatever. Also provides onramp to being a volunteer.
+	> Language edits should be considered normal edits, not some kind of special edit.
+	A: Really, I should consult someonw about how to handle myriad languages. Maybe the automatic translator will work fine enough though (probably not).
+Q: Can the list of items be truly Global?
+	> If Global, then edits are through github, not volunteer editor.
+	> If Global standard plus local edits, then its through volunteer editor.
+Q: How large is the Location of a local piece of info?
+	> Depots are point-like.
+	> Pickup Region can be drawn as a set of polygons or something, or a circle, doesn't matter significantly.
+	> If a Page has a local override on any global info, do local volunteers need to coordinate with volunteers in neighboring areas to agree on the local override region?
+Q: Can we actually make a Page/SEO layer that's worth it for people to use?
+	> It could be not worth it if there's a lot of default info that need to be overrided.
+Q: How does this apply to reuse? (thrift, repair)
+	A: If you dont want it, it's waste. A perfectly good piece of clothing is still waste, but a thrift store will accept that waste. A repair place may turn waste into non-waste and return it to you.
+Q: What kind of images can be legally used?
+Q: How to make the Waste Guide fast to interact with for a volunteer from a company that just needs to add a couple small things, without them having too much power, or it taking too long and they quit?
+	A: Yes, the volunteer onboarding needs to be fast. Once again, need to research wiki permission cultures.
+Q: The coverage of Locations by volunteers needs to be thorough enough, otherwise volunteer-poor Locations will have bad info. But this is an incentive for local volunteers to rise up.
+Q: Some quick numbers: there's approx 1,000,000 storefronts in the US, and approx 6,000 of those are in CO. If we assume 1/10th accept material from customers in some way, that's 600 for CO. I can't imagine that's too many, right?
+Q: Should we allow for volunteers to hide Pages?
+	A: My guess is no?
+Q: Can we provide tools in the volunteer CMS to make various processes easier?
+	> Changing boundries to fit around certain Locations, understanding which Pages they need to make local edits for or maintain local Depot info, etc.
+	> All the standard tire pages, all the standard plastic pages, etc.
+Q: 
+
+*Q: Can groups of volunteers negotiate with eachother to establish "local" Regions?
+*	> Can all of Minnesota choose a different word for waterfountain than their neighbors?
+Q: What does a wiki permission higherarchy look like? Can some high level contributors submit sweeping edits to group of other high level contributors for confirmation? Can low-level contributors stop this?
+Q: How do we ensure that edit confirmations aren't captured by trolls or other malicious actors?
+	> Could large regions be locally edited by a large entity to enshittify the Waste Guide?
+*	A: However a normal wiki ensures this, so IDK.
+Q: 

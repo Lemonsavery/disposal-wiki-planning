@@ -1,0 +1,70 @@
+- fill out volunteer CMS Components
+- 
+
+1. make the plan
+2. make the diagram
+3. start talking to people, companies, wikis, etc.
+4. keep adding Qs.
+5. make a whole polished document
+
+
+
+What is atoz currently?
+- front end, searchable with fine SEO and alias acceptance.
+- list of items, with information for single location, Boulder County
+- ability to submit edit suggestions, through suggesitons and contact us email.
+
+What are the pieces that need to be built?
+- Frontend, hosted
+- massive collection of Pages with default text and images, including links between Pages, hosted
+- that massive collection of Page data has a searchstring query tool with great SEO and alias acceptance, hosted server?
+- CMS for volunteers, hosted, to: 
+	> add custom local Pages
+	> do Page local edits, verifications
+	> CRUD local Depot(s)/Pickup(s)/Event(s), verifications
+	> negotiate Region with other volunteers, to determine what "local" means for them (default overrides, CRUD permissions)
+	> see/delete local suggestions (maybe also discuss?)
+	> see Global Waste Guide styleguide and guidance
+	> Global forum (might just be subreddit or child-ranked Discord)
+- build wiki-like account permission system, hosted
+
+What questions does a Page answer?
+- Is this page about the thing I searched for? (established via name(s) and image(s)). GLOBAL
+- Where do I take this thing? What extra steps do I have to take to do so (prices, sign up with city, package it, remove something, find serial number, etc)? LOCAL
+- This is interesting, where do I learn more about this stuff? LOCALISH
+- This info seems wrong, where do I tell someone to correct it? LOCAL
+
+
+
+Components of the Global website/app:
+- provide Location
+- language chooser
+- searchbar
+- search results
+- Page container
+- suggest an edit. (outside of any Page) (should confirm user info: Location, contact info)
+- version number in innocuous place (2026.01.31.date?)
+
+Components of a Page:
+- title (defautled)
+- image (defaulted)
+- other text info Global (may have default), has an UpdatedDate only if non-default.
+- local Depot(s)/Pickup(s)/Event(s), has an UpdatedDate for the group but not for individual. may have pagination
+- before there's depots added, we should have default info for a blank Depot section. It will say that this page hasn't been attended to by local volunteers yet, but here's some general options that are likely to work.
+- suggest an edit. (within this Page) (should confirm user info: Location, Page, contact info)
+
+Components of a Depot/Pickup/Event:
+- Page specific information (acceptability criteria, prices, etc), has an UpdatedDate
+- "information" should have some frontend styling options, since it's so freeform.
+- name
+- general information (freeform, contact info, dates/times, times of year, entry prices, description, etc), hidden behind a click in some way. has an UpdatedDate
+- Location or Region, apart of general information
+
+Components of an UpdatedDate:
+- The most recent between edited and verified is shown in small text someplace out of the way. The other two are behind a tooltip alongside, with explaination of what these different things mean.
+- "last viewed by Contributor: [Date]" (2026/01/31)
+- "last edited by Contributor: [Date]"
+- "last verified by Contributor: [Date]"
+
+Components of Volunteer CMS:
+- 
